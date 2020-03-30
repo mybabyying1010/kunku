@@ -1,0 +1,33 @@
+
+.levels.data-v-8704c858 {
+	height: 80vh;
+	overflow: auto;
+}
+.level.data-v-8704c858 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.one.data-v-8704c858 {
+	width: 90%;
+	margin-left: 5%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	padding-bottom: 1rem;
+}
+.title.data-v-8704c858{
+	font-size: 30rpx;
+	margin-top: 20rpx;
+	line-height: 1.5;
+}
+.username.data-v-8704c858{
+	font-weight: bold;
+	color: black;
+}
+

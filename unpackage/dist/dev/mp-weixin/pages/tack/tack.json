@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "添加地址",
+  "usingComponents": {
+    "van-popup": "../../wxcomponents/dist/popup/index",
+    "van-picker": "../../wxcomponents/dist/picker/index",
+    "van-area": "../../wxcomponents/dist/area/index",
+    "van-toast": "../../wxcomponents/dist/toast/index",
+    "van-field": "../../wxcomponents/dist/field/index",
+    "van-cell": "../../wxcomponents/dist/cell/index",
+    "van-cell-group": "../../wxcomponents/dist/cell-group/index"
+  }
+}

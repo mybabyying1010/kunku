@@ -1,0 +1,45 @@
+
+.box.data-v-f9681ed8 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	height: 25vh;
+	background-color: #268dcd;
+}
+.head.data-v-f9681ed8 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.nickname.data-v-f9681ed8 {
+	color: white;
+	font-size: 30rpx;
+}
+.usermotto.data-v-f9681ed8 {
+	padding-top: 70rpx;
+}
+.logo.data-v-f9681ed8 {
+	text-align: center;
+	padding-top: 30rpx;
+}
+.icon.data-v-f9681ed8 {
+	width: 1.6rem;
+	height: 1.6rem;
+}
+.title.data-v-f9681ed8 {
+	font-size: 30rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "订单提交",
+  "usingComponents": {
+    "van-card": "../../wxcomponents/dist/card/index"
+  }
+}

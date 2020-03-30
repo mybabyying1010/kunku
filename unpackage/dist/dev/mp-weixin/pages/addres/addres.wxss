@@ -1,0 +1,24 @@
+
+.box.data-v-075e8294{
+  height: 90vh;
+  overflow: auto;
+}
+.title.data-v-075e8294{
+  line-height: 1.5;
+  font-size: 30rpx;
+}
+.add.data-v-075e8294{
+  padding: 0;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+.btn.data-v-075e8294{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: end;
+	-webkit-align-items: flex-end;
+	        align-items: flex-end;
+}
+

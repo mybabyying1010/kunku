@@ -1,0 +1,47 @@
+
+.box.data-v-24ad6f34 {
+	/* flex-direction: column; */
+	background-image: url('https://i2.tiimg.com/704744/016864a33e290365.jpg');
+	background-size: 100%;
+	height: 100vh;
+	width: 100%;
+}
+.userinfo.data-v-24ad6f34 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding-top: 120px;
+	height: 45vh;
+}
+.userinfo image.data-v-24ad6f34 {
+	width: 20vw;
+	height: 13vh;
+	border-radius: 50%;
+}
+.userinfo-avatar.data-v-24ad6f34 {
+	width: 128rpx;
+	height: 128rpx;
+	margin: 20rpx;
+	border-radius: 50%;
+}
+.userinfo-nickname.data-v-24ad6f34 {
+	color: #aaa;
+	font-size: 40rpx;
+}
+.cu-btn.button-hover.data-v-24ad6f34 {
+	-webkit-transform: translate(1rpx, 1rpx);
+	        transform: translate(1rpx, 1rpx);
+	opacity: 0.8;
+}
+.tijiao.data-v-24ad6f34 {
+	position: fixed;
+	width: 100%;
+}
+

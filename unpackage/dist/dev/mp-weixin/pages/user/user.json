@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "van-image": "../../wxcomponents/dist/image/index",
+    "van-row": "../../wxcomponents/dist/row/index",
+    "van-col": "../../wxcomponents/dist/col/index"
+  }
+}

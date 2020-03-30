@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的团队",
+  "usingComponents": {
+    "van-tab": "../../wxcomponents/dist/tab/index",
+    "van-tabs": "../../wxcomponents/dist/tabs/index",
+    "van-row": "../../wxcomponents/dist/row/index",
+    "van-col": "../../wxcomponents/dist/col/index",
+    "van-image": "../../wxcomponents/dist/image/index"
+  }
+}

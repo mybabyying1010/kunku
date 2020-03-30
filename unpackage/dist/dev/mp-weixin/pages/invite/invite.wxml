@@ -1,0 +1,1 @@
+<view class="data-v-42802f54"><canvas class="can data-v-42802f54" canvas-id="mycan"></canvas><button data-event-opts="{{[['tap',[['bye',['$event']]]]]}}" bindtap="__e" class="data-v-42802f54">保存海报</button></view>

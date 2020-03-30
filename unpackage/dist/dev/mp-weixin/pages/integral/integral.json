@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "积分兑换",
+  "usingComponents": {
+    "van-field": "../../wxcomponents/dist/field/index",
+    "van-button": "../../wxcomponents/dist/button/index"
+  }
+}

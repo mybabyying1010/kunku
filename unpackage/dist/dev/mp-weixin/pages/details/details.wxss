@@ -1,0 +1,72 @@
+
+.swiper {
+	height: 13rem;
+}
+.two {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.one,.two{
+	font-size: 30rpx;
+}
+.name {
+	font-weight: bold;
+}
+.money {
+	color: red;
+}
+.stock {
+	color: gainsboro;
+}
+.parameter {
+	line-height: 3;
+	font-size: 36rpx;
+}
+.btn {
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	background-color: #1989fa;
+	color: #fafafa;
+}
+.brief {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+}
+.radius {
+	margin-left: 6%;
+	font-size: 30rpx;
+}
+.img {
+	width: 6rem;
+	height: 6rem;
+}
+.xinxi {
+	font-size: 35rpx;
+	margin-top: 60rpx;
+}
+.stepper {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	width: 96%;
+	margin-right: 2%;
+}
+.shops {
+	margin-top: 10rpx;
+}
+.shop {
+	background-color: #1989fa;
+	color: #fafafa;
+}
+
